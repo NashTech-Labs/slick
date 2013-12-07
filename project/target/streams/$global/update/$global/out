@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/sky/knols_sessions/slickdemo/project/}slickdemo-build...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/home/sky/knols_sessions/slickdemo/slickdemo/project/}slickdemo-build...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#slickdemo-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -107,7 +107,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#slickdemo-build;0.1-SNAPSHOT [provided][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#slickdemo-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [provided->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.2 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2da6852a[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78967034[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.2[0m
 [0m[[0mdebug[0m] [0m	typesafe-ivy-releases: revision in cache: org.scala-lang#scala-library;2.10.2[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.2 in sbt-chain[0m
@@ -1466,7 +1466,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies default#slickdemo-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [scala-tool->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#slickdemo-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [scala-tool->master][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#slickdemo-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [scala-tool->optional(default)][0m
-[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/default/slickdemo-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml[0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/default/slickdemo-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.sbteclipse#sbteclipse-plugin;2.3.0!sbteclipse-plugin.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.sbteclipse#sbteclipse-core;2.3.0!sbteclipse-core.jar[0m
@@ -1520,19 +1520,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.0-RC5!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.2!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2752ms :: artifacts dl 55ms[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT compile produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT runtime produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT test produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT provided produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT optional produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT compile-internal produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT runtime-internal produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT test-internal produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT plugin produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT sources produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT docs produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT pom produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT scala-tool produced in /home/sky/knols_sessions/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (2752ms resolve - 55ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2631ms :: artifacts dl 277ms[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT compile produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT runtime produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT test produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT provided produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT optional produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT compile-internal produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT runtime-internal produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT test-internal produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT plugin produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT sources produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT docs produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT pom produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#slickdemo-build;0.1-SNAPSHOT scala-tool produced in /home/sky/knols_sessions/slickdemo/slickdemo/project/target/resolution-cache/reports/default-slickdemo-build-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (2631ms resolve - 277ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
