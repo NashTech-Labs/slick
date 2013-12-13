@@ -15,7 +15,7 @@ for create databse =>
  
 You then need to clone this project
 
-git clone  https://github.com/satendrakumar06/slickdemo.git
+git clone https://github.com/knoldus/slick.git
 
 Change into the slickdemo folder.
 
